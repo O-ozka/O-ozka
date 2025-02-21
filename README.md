@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rizka Febriyanti
 - 👀 I’m interested in Data Science and Data Analyst
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, R, and Java
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me @0_ozka my Instragram
 - 😄 Pronouns: She/Her
